@@ -1,7 +1,3 @@
-Here's the updated README file with a section for the Credit Risk Report file:
-
----
-
 # Credit Risk Analysis with Logistic Regression
 
 ## Overview
