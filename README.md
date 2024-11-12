@@ -71,8 +71,4 @@ This project uses Python and the following libraries:
 - **Credit Risk Report**: The detailed Credit Risk Analysis Report can be found as a separate file in the repository. This report includes the overview, results, and model recommendation, formatted for easy readability:
   - **File Location**: `credit_risk_report.md`
 
-This README, notebook, and report file contain all necessary information to understand, reproduce, and interpret the results of this credit risk analysis project.
 
---- 
-
-This setup gives clear guidance on where to find each component of the project, including the new `credit_risk_report.md`.
